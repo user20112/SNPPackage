@@ -1,0 +1,21 @@
+﻿Installing assembly 'C:\Users\d.paddock\Desktop\SNPFiles\ManagementTools\TestingApplications\TestLine-Machines\Service\TestMachine.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\d.paddock\Desktop\SNPFiles\ManagementTools\TestingApplications\TestLine-Machines\Service\TestMachine.InstallLog
+   assemblypath = C:\Users\d.paddock\Desktop\SNPFiles\ManagementTools\TestingApplications\TestLine-Machines\Service\TestMachine.exe
+Installing service TestLine...
+Service TestLine has been successfully installed.
+Creating EventLog source TestLine in log Application...
+Committing assembly 'C:\Users\d.paddock\Desktop\SNPFiles\ManagementTools\TestingApplications\TestLine-Machines\Service\TestMachine.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\d.paddock\Desktop\SNPFiles\ManagementTools\TestingApplications\TestLine-Machines\Service\TestMachine.InstallLog
+   assemblypath = C:\Users\d.paddock\Desktop\SNPFiles\ManagementTools\TestingApplications\TestLine-Machines\Service\TestMachine.exe
+Uninstalling assembly 'C:\Users\d.paddock\Desktop\SNPFiles\ManagementTools\TestingApplications\TestLine-Machines\Service\TestMachine.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\d.paddock\Desktop\SNPFiles\ManagementTools\TestingApplications\TestLine-Machines\Service\TestMachine.InstallLog
+   assemblypath = C:\Users\d.paddock\Desktop\SNPFiles\ManagementTools\TestingApplications\TestLine-Machines\Service\TestMachine.exe
+Removing EventLog source TestLine.
+Service TestLine is being removed from the system...
+Service TestLine was successfully removed from the system.

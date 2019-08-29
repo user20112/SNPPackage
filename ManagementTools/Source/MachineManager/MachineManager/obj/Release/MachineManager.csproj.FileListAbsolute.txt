@@ -1,0 +1,16 @@
+C:\Users\d.paddock\Documents\GitHub\MachineManager\MachineManager\bin\Release\MachineManager.exe.config
+C:\Users\d.paddock\Documents\GitHub\MachineManager\MachineManager\bin\Release\MachineManager.exe
+C:\Users\d.paddock\Documents\GitHub\MachineManager\MachineManager\bin\Release\MachineManager.pdb
+C:\Users\d.paddock\Documents\GitHub\MachineManager\MachineManager\bin\Release\Apache.NMS.ActiveMQ.dll
+C:\Users\d.paddock\Documents\GitHub\MachineManager\MachineManager\bin\Release\Apache.NMS.dll
+C:\Users\d.paddock\Documents\GitHub\MachineManager\MachineManager\bin\Release\Apache.NMS.pdb
+C:\Users\d.paddock\Documents\GitHub\MachineManager\MachineManager\bin\Release\Apache.NMS.xml
+C:\Users\d.paddock\Documents\GitHub\MachineManager\MachineManager\bin\Release\Apache.NMS.ActiveMQ.pdb
+C:\Users\d.paddock\Documents\GitHub\MachineManager\MachineManager\bin\Release\Apache.NMS.ActiveMQ.xml
+C:\Users\d.paddock\Documents\GitHub\MachineManager\MachineManager\obj\Release\MachineManager.Form1.resources
+C:\Users\d.paddock\Documents\GitHub\MachineManager\MachineManager\obj\Release\MachineManager.Properties.Resources.resources
+C:\Users\d.paddock\Documents\GitHub\MachineManager\MachineManager\obj\Release\MachineManager.csproj.GenerateResource.cache
+C:\Users\d.paddock\Documents\GitHub\MachineManager\MachineManager\obj\Release\MachineManager.csproj.CoreCompileInputs.cache
+C:\Users\d.paddock\Documents\GitHub\MachineManager\MachineManager\obj\Release\MachineManager.csproj.CopyComplete
+C:\Users\d.paddock\Documents\GitHub\MachineManager\MachineManager\obj\Release\MachineManager.exe
+C:\Users\d.paddock\Documents\GitHub\MachineManager\MachineManager\obj\Release\MachineManager.pdb

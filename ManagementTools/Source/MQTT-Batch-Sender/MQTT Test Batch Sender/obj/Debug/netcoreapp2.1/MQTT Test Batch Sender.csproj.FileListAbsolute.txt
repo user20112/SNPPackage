@@ -1,0 +1,11 @@
+C:\Users\d.paddock\Documents\GitHub\MQTT-Batch-Sender\MQTT Test Batch Sender\bin\Debug\netcoreapp2.1\MQTT Test Batch Sender.deps.json
+C:\Users\d.paddock\Documents\GitHub\MQTT-Batch-Sender\MQTT Test Batch Sender\bin\Debug\netcoreapp2.1\MQTT Test Batch Sender.runtimeconfig.json
+C:\Users\d.paddock\Documents\GitHub\MQTT-Batch-Sender\MQTT Test Batch Sender\bin\Debug\netcoreapp2.1\MQTT Test Batch Sender.runtimeconfig.dev.json
+C:\Users\d.paddock\Documents\GitHub\MQTT-Batch-Sender\MQTT Test Batch Sender\bin\Debug\netcoreapp2.1\MQTT Test Batch Sender.dll
+C:\Users\d.paddock\Documents\GitHub\MQTT-Batch-Sender\MQTT Test Batch Sender\bin\Debug\netcoreapp2.1\MQTT Test Batch Sender.pdb
+C:\Users\d.paddock\Documents\GitHub\MQTT-Batch-Sender\MQTT Test Batch Sender\obj\Debug\netcoreapp2.1\MQTT Test Batch Sender.csprojAssemblyReference.cache
+C:\Users\d.paddock\Documents\GitHub\MQTT-Batch-Sender\MQTT Test Batch Sender\obj\Debug\netcoreapp2.1\MQTT Test Batch Sender.csproj.CoreCompileInputs.cache
+C:\Users\d.paddock\Documents\GitHub\MQTT-Batch-Sender\MQTT Test Batch Sender\obj\Debug\netcoreapp2.1\MQTT Test Batch Sender.AssemblyInfoInputs.cache
+C:\Users\d.paddock\Documents\GitHub\MQTT-Batch-Sender\MQTT Test Batch Sender\obj\Debug\netcoreapp2.1\MQTT Test Batch Sender.AssemblyInfo.cs
+C:\Users\d.paddock\Documents\GitHub\MQTT-Batch-Sender\MQTT Test Batch Sender\obj\Debug\netcoreapp2.1\MQTT Test Batch Sender.dll
+C:\Users\d.paddock\Documents\GitHub\MQTT-Batch-Sender\MQTT Test Batch Sender\obj\Debug\netcoreapp2.1\MQTT Test Batch Sender.pdb
