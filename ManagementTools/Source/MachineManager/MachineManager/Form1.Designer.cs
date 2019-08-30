@@ -60,7 +60,7 @@
             // DisplayListView
             // 
             this.DisplayListView.Location = new System.Drawing.Point(13, 33);
-            this.DisplayListView.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.DisplayListView.Margin = new System.Windows.Forms.Padding(4);
             this.DisplayListView.Name = "DisplayListView";
             this.DisplayListView.Size = new System.Drawing.Size(1199, 510);
             this.DisplayListView.TabIndex = 0;
@@ -69,35 +69,34 @@
             // MachineNameBox
             // 
             this.MachineNameBox.Location = new System.Drawing.Point(1351, 65);
-            this.MachineNameBox.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.MachineNameBox.Margin = new System.Windows.Forms.Padding(4);
             this.MachineNameBox.Name = "MachineNameBox";
             this.MachineNameBox.Size = new System.Drawing.Size(111, 22);
-            this.MachineNameBox.TabIndex = 1;
+            this.MachineNameBox.TabIndex = 2;
             // 
             // MachineIDBox
             // 
             this.MachineIDBox.Location = new System.Drawing.Point(1351, 33);
-            this.MachineIDBox.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.MachineIDBox.Margin = new System.Windows.Forms.Padding(4);
             this.MachineIDBox.Name = "MachineIDBox";
-            this.MachineIDBox.ReadOnly = true;
             this.MachineIDBox.Size = new System.Drawing.Size(111, 22);
-            this.MachineIDBox.TabIndex = 2;
+            this.MachineIDBox.TabIndex = 1;
             // 
             // PlantBox
             // 
             this.PlantBox.Location = new System.Drawing.Point(1351, 129);
-            this.PlantBox.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.PlantBox.Margin = new System.Windows.Forms.Padding(4);
             this.PlantBox.Name = "PlantBox";
             this.PlantBox.Size = new System.Drawing.Size(111, 22);
-            this.PlantBox.TabIndex = 3;
+            this.PlantBox.TabIndex = 4;
             // 
             // LineBox
             // 
             this.LineBox.Location = new System.Drawing.Point(1351, 97);
-            this.LineBox.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.LineBox.Margin = new System.Windows.Forms.Padding(4);
             this.LineBox.Name = "LineBox";
             this.LineBox.Size = new System.Drawing.Size(111, 22);
-            this.LineBox.TabIndex = 5;
+            this.LineBox.TabIndex = 3;
             // 
             // MachineNameLabel
             // 
@@ -219,10 +218,10 @@
             // TheoreticalBox
             // 
             this.TheoreticalBox.Location = new System.Drawing.Point(1351, 166);
-            this.TheoreticalBox.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.TheoreticalBox.Margin = new System.Windows.Forms.Padding(4);
             this.TheoreticalBox.Name = "TheoreticalBox";
             this.TheoreticalBox.Size = new System.Drawing.Size(111, 22);
-            this.TheoreticalBox.TabIndex = 14;
+            this.TheoreticalBox.TabIndex = 5;
             // 
             // ErrorLabel
             // 
@@ -237,11 +236,11 @@
             // ErrorBox
             // 
             this.ErrorBox.Location = new System.Drawing.Point(1307, 254);
-            this.ErrorBox.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.ErrorBox.Margin = new System.Windows.Forms.Padding(4);
             this.ErrorBox.Multiline = true;
             this.ErrorBox.Name = "ErrorBox";
             this.ErrorBox.Size = new System.Drawing.Size(156, 288);
-            this.ErrorBox.TabIndex = 16;
+            this.ErrorBox.TabIndex = 7;
             // 
             // label1
             // 
@@ -256,10 +255,10 @@
             // EngineerBox
             // 
             this.EngineerBox.Location = new System.Drawing.Point(1351, 197);
-            this.EngineerBox.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.EngineerBox.Margin = new System.Windows.Forms.Padding(4);
             this.EngineerBox.Name = "EngineerBox";
             this.EngineerBox.Size = new System.Drawing.Size(111, 22);
-            this.EngineerBox.TabIndex = 18;
+            this.EngineerBox.TabIndex = 6;
             // 
             // label2
             // 
@@ -293,7 +292,7 @@
             this.Controls.Add(this.MachineNameBox);
             this.Controls.Add(this.DisplayListView);
             this.Icon = ((System.Drawing.Icon)(resources.GetObject("$this.Icon")));
-            this.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.Margin = new System.Windows.Forms.Padding(4);
             this.Name = "Form1";
             this.Text = "Form1";
             this.toolStrip1.ResumeLayout(false);

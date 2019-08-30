@@ -2,10 +2,10 @@
 <DownloadTask>
   <ProjectInfo
     DeviceVersion="15.0.0.0"
-    CreationTime="2019-08-26 18:39:08 (UTC)"
+    CreationTime="2019-08-29 17:00:43 (UTC)"
     Runtime="SMART"
-    RtProjectName="PacLiteCombined_V15.SNP-XS-EndOfLineHMI[KTP700 Basic PN]"
-    RtProjectFolderName="PacLiteCombined_V15.SNP-XS-EndOfLineHMI[KTP700 Basic PN]"
+    RtProjectName="SNP6MachineTestSetup.SNP-XS-EndOfLineHMI[KTP700 Basic PN]"
+    RtProjectFolderName="SNP6MachineTestSetup.SNP-XS-EndOfLineHMI[KTP700 Basic PN]"
     DeviceType="KTP700_Basic"
     DisplayOrientation="0"
     RTReleaseNo="15.0.0.0"
